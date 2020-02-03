@@ -20,7 +20,7 @@ A static wepbage/application is to be enhanced to be a responsive and dynamic we
 
 In order to run the application:
 
-* Download as .zip file 
+* Download .zip file 
 
 * Start HTTP server using Python. To check which Python version you are running, run `python -V` in your terminal. If you are using Python 2 then run `python -m SimpleHTTPServer 8000` in your new directory. If you're running Python 3 on your machine, then run `python3 -m http.server 8000`. 
 
